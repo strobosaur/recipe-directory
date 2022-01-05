@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@100;200;300;400;500;600;700;800&display=swap');
+
+html, body, #root {
+  height: 100%;
+  --bg-color01: #dfdfdf;
+  --txt-color01: #333;
+  --deco-color01: #d4d4d4;
+}
+body {
+  font-family: Raleway, sans-serif;
+  margin: 0;
+  font-size: 1.4em;
+  background: var(--bg-color01);
+  color: var(--txt-color01);
+}
+h1,h2,h3,p {
+  margin: 0;
+}
+input, textarea {
+  display: block;
+  width: 100%;
+  color: var(--txt-color01);
+  background-color: var(--bg-color01);
+  border: 1px solid var(--deco-color01);
+  padding: 8px;
+  border-radius: 8px;
+  font-size: 1em;
+  box-sizing: border-box;
+}
+.page-title {
+  text-align: center;
+  margin: 40px auto;
+  color: var(--txt-color01);
+}
+.loading, .error {
+  text-align: center;
+  margin: 40px auto;
+}
