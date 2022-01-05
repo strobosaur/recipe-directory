@@ -4,7 +4,9 @@ html, body, #root {
   height: 100%;
   --bg-color01: #dfdfdf;
   --txt-color01: #333;
+  --txt-color02: #fff;
   --deco-color01: #d4d4d4;
+  --deco-color02: #58249c;
 }
 body {
   font-family: Raleway, sans-serif;
