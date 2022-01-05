@@ -1,5 +1,18 @@
 {
   "recipes":[
-    
+    {
+      "id": "1",
+      "title": "Stroganof alá Schönbäck",
+      "ingredients": [
+        "250g kabanoss",
+        "1 purjolök",
+        "5 klyftor vitlök",
+        "2.5dl matlagningsgrädde",
+        "800g krossad tomat",
+        "2dl pesto soltorkad tomat"
+      ],
+      "method": "1. Hacka och stek purjolök & vitlök tillsammans i 2 minuter. 2. Hacka kabanoss i slantar och stek tillsammans med löken. 3. Tillsätt kryddor och stek i någon minut till. 4. Tillsätt matlagningsgrädde och sjud alltsammans i några minuter. 5. Tillsätt krossade tomater, och låt puttra i 15 minuter. 6. Koka pasta och servera toppat med rikligt med parmesanost.",
+      "cookingTime": "40 minutes"
+    }
   ]
 }
