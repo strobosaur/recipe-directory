@@ -22,7 +22,7 @@ input, textarea {
   display: block;
   width: 100%;
   color: var(--txt-color01);
-  background-color: var(--bg-color01);
+  background-color: var(--txt-color02);
   border: 1px solid var(--deco-color01);
   padding: 8px;
   border-radius: 8px;
